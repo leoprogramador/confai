@@ -9,14 +9,14 @@ export const Footer = () => {
         <Link href="/">
           <Image
             src="/assets/images/logo.svg"
-            alt="Evently logo"
+            alt="confAI logo"
             width={128}
             height={38}
           />
         </Link>
 
         <p className="flex items-center justify-center gap-x-1">
-          <Copyright className="h-4 w-4" /> {new Date().getFullYear()} Evently.
+          <Copyright className="h-4 w-4" /> {new Date().getFullYear()} ConfAI.
           All rights reserved.
         </p>
       </div>

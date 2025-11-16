@@ -28,7 +28,7 @@ export const MobileNav = () => {
         <SheetContent className="flex flex-col gap-6 bg-white md:hidden">
           <Image
             src="/assets/images/logo.svg"
-            alt="Evently logo"
+            alt="confAI logo"
             height={38}
             width={128}
           />

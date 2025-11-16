@@ -1,5 +1,5 @@
 {
-  "name": "evently",
+  "name": "confai",
   "version": "1.0.1",
   "private": true,
   "scripts": {
@@ -9,11 +9,11 @@
     "lint": "next lint"
   },
   "author": {
-    "name": "Sanidhya Kumar Verma",
-    "email": "sanidhya.verma12345@gmail.com",
-    "url": "https://github.com/sanidhyy"
+    "name": "Leonardo Dias",
+    "email": "ldias3398@gmail.com",
+    "url": "https://github.com/leoprogramador"
   },
-  "description": "Evently is a platform for event management.",
+  "description": "confAI is a platform for event management.",
   "keywords": [
     "reactjs",
     "nextjs",
@@ -52,11 +52,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sanidhyy/evently.git"
+    "url": "https://github.com/sanidhyy/confAI.git"
   },
-  "homepage": "https://github.com/sanidhyy/evently#readme",
+  "homepage": "https://github.com/sanidhyy/confAI#readme",
   "bugs": {
-    "url": "https://github.com/sanidhyy/evently/issues",
+    "url": "https://github.com/sanidhyy/confAI/issues",
     "email": "sanidhya.verma12345@gmail.com"
   },
   "funding": [
